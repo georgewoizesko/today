@@ -1,0 +1,49 @@
+package daytwo;
+
+public class dayTwoAssignment {
+
+	public static void main(String[] args) {
+		//#1
+		String helloWorld = new String("Hello World");
+		//#2
+		int date = 1492;
+		//#3
+		boolean dog = true;
+		//#4
+		String todaysDate = "August 2nd 2016";
+		//#5
+		Double burgerPrice = 5.45;
+		//#6
+		char letter = 'X';
+		//#1a
+		System.out.println(helloWorld);
+		//#2a
+		System.out.println("Columbus Sailed the world in " + date);
+		//#3a
+		System.out.println("It is " + dog + " that I have a dog at home.");
+		//#4a
+		System.out.println("Today is " + todaysDate);
+		//#5a
+		System.out.println("I spent $" + burgerPrice + " on a cheeseburger");
+		//#6a
+		System.out.println(letter + " marks the spot");
+		
+		//Start of Array Assignment
+		String [] name = new String [10];
+				name [0] = "George";
+				name [1] = "Chris";
+				name [2] = "Stewart";
+				name [3] = "Vafa";
+				name [4] = "Ami";
+				name [5] = "Mike";
+				name [6] = "Kyle";
+				name [7] = "John";
+				name [8] = "Justin";
+				name [9] = "Jamal";
+		//Print Array
+		System.out.println(name);
+				
+
+	}
+
+}

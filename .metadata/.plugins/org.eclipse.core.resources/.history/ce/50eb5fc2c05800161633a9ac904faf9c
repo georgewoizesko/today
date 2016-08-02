@@ -1,0 +1,19 @@
+package com.helloClass;
+
+import java.util.Scanner;
+
+public class hiyaClass {
+
+	public static void main(String[] args) {
+		
+		int noIsForBattingAverage = 0;
+		
+		Scanner alien = new Scanner(System.in);
+		
+		System.out.println(noIsForBattingAverage);
+		
+		whoAmITalkingTo = alien.nextLine();
+
+	}
+
+}

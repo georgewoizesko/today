@@ -1,0 +1,11 @@
+
+public class helloClass {
+
+	public static void main(String[] args) {
+		
+		int thisNoIsForSluggingPercentages = 0;
+		
+
+	}
+
+}

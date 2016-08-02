@@ -1,0 +1,25 @@
+package daytwo;
+
+public class dayTwoAssignment {
+
+	public static void main(String[] args) {
+		//#1
+		String helloWorld = new String("Hello World");
+		//#2
+		int date = 1492;
+		//#3
+		boolean dog = true;
+		//#4
+		String todaysDate = "August 2nd 2016";
+		//#5
+		long coffeePrice = 5.45;
+		//#6
+		char Letter = 'x';
+		//#7
+		System.out.println(helloWorld);
+		//#8
+		
+
+	}
+
+}

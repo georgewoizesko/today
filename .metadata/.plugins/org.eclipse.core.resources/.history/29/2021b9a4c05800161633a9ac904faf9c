@@ -1,0 +1,13 @@
+package com.helloClass;
+
+public class hiyaClass {
+
+	public static void main(String[] args) {
+		
+		int noIsForBattingAverage = 0;
+		
+		System.out.println(noIsForBattingAverage);
+
+	}
+
+}

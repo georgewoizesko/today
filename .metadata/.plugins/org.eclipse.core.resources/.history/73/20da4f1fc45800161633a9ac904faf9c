@@ -1,0 +1,17 @@
+package com.helloClass;
+
+import java.util.Scanner;
+
+public class Arraycrap {
+
+	public static void main(String[] args) {
+		
+		float aBunchOfFloats = newfloat[5];
+		int aBunchOfInts = {189, 50, 93, 21, 5};
+		
+		int aNumberInTheArray = aBunchOfInts[2];
+		
+		System.out.print(aNumberInTheArray);
+	}
+
+}
